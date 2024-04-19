@@ -2,10 +2,9 @@
 
 <hr>
 
-<div style="vertical-align: top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahenrique">
 <img src="https://github-readme-stats.vercel.app/api?username=rahenrique&show_icons=true">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahenrique">
+
 <!--
 **rahenrique/rahenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
