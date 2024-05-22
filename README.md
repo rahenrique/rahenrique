@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahenrique&langs_count=8&layout=compact&theme=transparent">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=rahenrique&show_icons=true"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=rahenrique&show_icons=true"> 
+-->
 
 <!--
 **rahenrique/rahenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
